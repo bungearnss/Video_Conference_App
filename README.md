@@ -1,8 +1,16 @@
-# flutter_videocall_app
+# Video Conference App By Flutter with Agora.io SDK
+![meeting_app](https://user-images.githubusercontent.com/66944039/186141870-731ee5f4-7507-4d9e-9c81-34e740487cce.png)
 
-A new Flutter project.
+Supported features:
+- 1-1 Video Call
+- Group Video Call (4 max)
 
 ## Getting Started
+
+1. Signup/Login at https://sso2.agora.io/en/login to get Agora App id
+![Screenshot (2)](https://user-images.githubusercontent.com/66944039/186141705-0e4f47b9-a95b-468b-b6ad-a38ebf4dbec3.png)
+2. replace Appid At lib/Helpers/utils.dart in getAgoraAppId function
+3. run flutter run
 
 This project is a starting point for a Flutter application.
 
