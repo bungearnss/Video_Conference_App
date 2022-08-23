@@ -1,5 +1,5 @@
 # Video Conference App By Flutter with Agora.io SDK
-![meeting_app](https://user-images.githubusercontent.com/66944039/186141870-731ee5f4-7507-4d9e-9c81-34e740487cce.png)
+![meeting_app](https://user-images.githubusercontent.com/66944039/186154120-bcc198c1-d88c-4ea2-b74f-a5e516546d0d.png)
 
 Supported features:
 - 1-1 Video Call
